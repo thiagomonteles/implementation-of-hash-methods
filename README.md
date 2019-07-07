@@ -1,8 +1,6 @@
-# metodo-de-hash
-Foram emplementatados métodos de criação de hash e como manipular ultilizando dados reais.
+# Metódos de criação e manipulação de dados com Hash
 
- O trabalho consisti nas seguintes etapas:
-
+O trabalho consisti nas seguintes etapas:
 # 1.Construir um hash ideal (Sem tratamento de colisões) e calcular o total de colisões por posição conforme a seguir:
   * Usar o método da divisão considerando o tamanho padrão da tabela;
   * Usar uma tabela de tamanho baseado em número primo e usar o método da divisão;
