@@ -13,3 +13,7 @@ Foram emplementatados métodos de criação de hash e como manipular ultilizando
   * Usar o método de encadeamento externo em que o 1o registro é considerado na tabela;
   * Usar o método de encadeamento externo em que o nenhum registro é considerado na tabela;
   * Usar o método de zona de colisão.
+
+Para considerações e resultados de testes abra o pdf inserido na raiz da pasta.
+
+*Copie o arquivo dados-500000-lin.csv contendo dados gerados para teste em cada um das pastas com o main.c a ser executado.
